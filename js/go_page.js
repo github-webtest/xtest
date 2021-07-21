@@ -21,3 +21,7 @@ function go_home() {
 function goBack() {
 	window.history.back();
 }
+
+function go_rateus(){
+	window.location.href= "https://play.google.com/store/apps/details?id=com.xmaf.xtest";
+}
